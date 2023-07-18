@@ -1,2 +1,3 @@
 Fresher reactjs
 Đã sửa file txt ở branch develop
+Đã sửa file ở branch main
